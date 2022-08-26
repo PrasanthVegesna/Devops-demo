@@ -1,1 +1,2 @@
-create first github file
+This the smaple filejust for checking of the git
+
