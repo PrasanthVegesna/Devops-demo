@@ -1,2 +1,0 @@
-This the smaple filejust for checking of the git
-
